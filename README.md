@@ -84,3 +84,15 @@ Calculate the accuracy and std error for all the experiments and save them to sr
 ```bash
 $ make display-results
 ```
+
+## BibTeX Citation
+```bibtex
+@inproceedings{zaremba2022cross,
+  title={Cross-Subject \& Cross-Dataset Subject Transfer in Motor Imagery BCI systems},
+  author={Zaremba, Teddy and Atyabi, Adham},
+  booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2022},
+  organization={IEEE}
+}
+```
